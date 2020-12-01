@@ -10,6 +10,8 @@
 
 * Adblocker: https://adblockplus.org/es/
 
+* Protects from Phishing: https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia/related
+
 
 ## Configurations:
 
