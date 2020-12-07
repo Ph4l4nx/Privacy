@@ -16,3 +16,7 @@
 ## Configurations:
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
+
+## Anonsurf (TOR tunnel):
+
+https://linuxhint.com/anonsurf/
