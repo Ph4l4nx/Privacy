@@ -1,10 +1,14 @@
-# Browser-safe-configuration
+# Browser Configuration
 
 ## Extensions:
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
 * Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
+
+* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+
+* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
 
 * HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
 
