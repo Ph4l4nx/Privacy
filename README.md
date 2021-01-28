@@ -24,3 +24,7 @@
 ## Anonsurf (TOR tunnel):
 
 https://linuxhint.com/anonsurf/
+
+## Linux distro for privacy:
+
+Whonix: https://www.whonix.org/wiki/Download
