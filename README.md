@@ -1,4 +1,4 @@
-# Browser Configuration
+# Privacy
 
 ## Extensions:
 
