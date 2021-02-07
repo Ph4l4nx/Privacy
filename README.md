@@ -44,3 +44,7 @@ https://correotemporal.org/
 ## Email:
 
 https://protonmail.com/
+
+## File sharing:
+
+https://onionshare.org/
