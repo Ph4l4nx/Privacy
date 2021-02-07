@@ -16,7 +16,6 @@
 
 * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
 
-
 ## Configurations:
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
@@ -48,3 +47,10 @@ https://protonmail.com/
 ## File sharing:
 
 https://onionshare.org/
+
+
+
+
+
+
+https://www.startpage.com/es/
