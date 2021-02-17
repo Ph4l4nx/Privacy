@@ -1,6 +1,6 @@
 # Privacy
 
-## Extensions:
+## Extensions
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
@@ -16,15 +16,15 @@
 
 * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
 
-## Configurations:
+## Configurations
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
-## Anonsurf (TOR tunnel):
+## Anonsurf (TOR tunnel)
 
 https://linuxhint.com/anonsurf/
 
-## Linux distro for privacy:
+## Linux distro for privacy
 
 Whonix: https://www.whonix.org/wiki/Download
 
@@ -44,10 +44,16 @@ https://correotemporal.org/
 
 https://protonmail.com/
 
-## File sharing:
+## File sharing
 
 https://onionshare.org/
 
 ## Browser:
 
 https://www.startpage.com/es/
+
+## Instant messaging
+
+* Wickr me: https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=es&gl=US (Mr robot)
+
+* Signal: https://signal.org/es/
