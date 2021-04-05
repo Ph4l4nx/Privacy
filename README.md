@@ -42,6 +42,8 @@ https://correotemporal.org/
 
 ## Email:
 
+https://lavabit.com/
+
 https://protonmail.com/
 
 ## File sharing
