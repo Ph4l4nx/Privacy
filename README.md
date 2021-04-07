@@ -24,6 +24,8 @@
 
 https://linuxhint.com/anonsurf/
 
++ https://github.com/renergr1nch/splitter
+
 ## Linux distro for privacy
 
 Whonix: https://www.whonix.org/wiki/Download
