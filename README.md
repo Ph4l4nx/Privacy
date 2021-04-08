@@ -61,3 +61,7 @@ https://www.startpage.com/es/
 * Wickr me: https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=es&gl=US (Mr robot)
 
 * Signal: https://signal.org/es/
+
+# ProxyGambit
+
+https://github.com/samyk/proxygambit
