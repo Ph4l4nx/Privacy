@@ -28,7 +28,7 @@ https://linuxhint.com/anonsurf/
 
 ## Linux distro for privacy
 
-https://www.qubes-os.org/
+Qubes-os: https://www.qubes-os.org/
 
 Whonix: https://www.whonix.org/wiki/Download
 
