@@ -14,6 +14,8 @@
 
 * Adblocker: https://adblockplus.org/es/
 
+* https://privacybadger.org/
+
 * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
 
 ## Configurations
