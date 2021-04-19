@@ -80,6 +80,6 @@ https://www.startpage.com/es/
 
 * https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
 
-## Blogs
+## Blogs talking about privacy
 
 http://hackcanl2o4lvmnv.onion
