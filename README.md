@@ -26,9 +26,13 @@
 
 https://linuxhint.com/anonsurf/
 
-+ https://github.com/renergr1nch/splitter
+## Proxychains:
 
-## Linux distro for privacy
+* https://github.com/haad/proxychains
+
+* https://github.com/renergr1nch/splitter
+
+## Linux distros for privacy
 
 Qubes-os: https://www.qubes-os.org/
 
