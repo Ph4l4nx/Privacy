@@ -26,11 +26,11 @@
 
 https://linuxhint.com/anonsurf/
 
-## Proxychains:
+## Proxys:
 
-* https://github.com/haad/proxychains
+* Proxychains: https://github.com/haad/proxychains
 
-* https://github.com/renergr1nch/splitter
+* Privoxy: https://www.privoxy.org/ (Ideal: privoxy + polipo)
 
 ## Linux distros for privacy
 
@@ -72,9 +72,13 @@ https://www.startpage.com/es/
 
 * Signal: https://signal.org/es/
 
-## ProxyGambit
+## Research
 
-https://github.com/samyk/proxygambit
+* https://github.com/renergr1nch/splitter
+
+* https://github.com/samyk/proxygambit
+
+* https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
 
 ## Blogs
 
