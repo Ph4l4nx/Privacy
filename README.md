@@ -38,6 +38,8 @@ Qubes-os: https://www.qubes-os.org/
 
 Whonix: https://www.whonix.org/wiki/Download
 
+Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
+
 ## VPNs
 
 https://protonvpn.com/es/
