@@ -84,6 +84,10 @@ https://www.startpage.com/es/
 
 * https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
 
+## Check your browser
+
+https://coveryourtracks.eff.org/
+
 ## Auditing tor nodes
 
 https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo
