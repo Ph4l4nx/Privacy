@@ -32,6 +32,8 @@ https://linuxhint.com/anonsurf/
 
 * Privoxy: https://www.privoxy.org/ (Ideal: privoxy + polipo)
 
+* HTTP proxy: https://www.haproxy.org/
+
 ## Linux distros for privacy
 
 Qubes-os: https://www.qubes-os.org/
