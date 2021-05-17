@@ -1,18 +1,4 @@
-# Privacy
-
-* [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [Extension)(##extensions)                                                                                                                                                                                    
-      * [Cryptography](#cryptography)                                                                                                                                                                                                      
-      * [Steganography](#steganography)                                                                                                                                                                                                    
-      * [OSINT](#osint)                                                                                                                                                                                                                    
-      * [Forensics](#forensics)                                                                                                                                                                                                            
-      * [Web](#web)                                                                                                                                                                                                                        
-      * [Reversing](#reversing)                                                                                                                                                                                                            
-      * [Exploiting](#exploiting)                                                                                                                                                                                                          
-      * [Pentesting](#pentesting)                                                                                                                                                                                                          
-      * [Malware](#malware)                                                                                                                                                                                                                
-      * [Mobile](#mobile)       
-      
+# Privacy 
      
 ## Extensions
 
