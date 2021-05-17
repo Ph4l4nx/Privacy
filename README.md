@@ -52,6 +52,8 @@ https://www.expressvpn.com/es
 
 https://nordvpn.com/es/
 
+Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
+
 ## Temporary email
 
 https://correotemporal.org/
