@@ -1,5 +1,19 @@
 # Privacy
 
+* [Table of Contents](#table-of-contents)                                                                                                                                                                                               
+      * [Extension) (#extensions)                                                                                                                                                                                    
+      * [Cryptography](#cryptography)                                                                                                                                                                                                      
+      * [Steganography](#steganography)                                                                                                                                                                                                    
+      * [OSINT](#osint)                                                                                                                                                                                                                    
+      * [Forensics](#forensics)                                                                                                                                                                                                            
+      * [Web](#web)                                                                                                                                                                                                                        
+      * [Reversing](#reversing)                                                                                                                                                                                                            
+      * [Exploiting](#exploiting)                                                                                                                                                                                                          
+      * [Pentesting](#pentesting)                                                                                                                                                                                                          
+      * [Malware](#malware)                                                                                                                                                                                                                
+      * [Mobile](#mobile)       
+      
+     
 ## Extensions
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
