@@ -1,7 +1,7 @@
 # Privacy
 
 * [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [Extension) (#extensions)                                                                                                                                                                                    
+      * [Extension)(#extensions)                                                                                                                                                                                    
       * [Cryptography](#cryptography)                                                                                                                                                                                                      
       * [Steganography](#steganography)                                                                                                                                                                                                    
       * [OSINT](#osint)                                                                                                                                                                                                                    
