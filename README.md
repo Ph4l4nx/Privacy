@@ -34,6 +34,8 @@ https://linuxhint.com/anonsurf/
 
 * HTTP proxy: https://www.haproxy.org/
 
+* ProxyBound: https://github.com/Intika-Linux-Proxy/Proxybound
+
 ## Linux distros for privacy
 
 Qubes-os: https://www.qubes-os.org/
