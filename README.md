@@ -68,6 +68,8 @@ https://protonmail.com/
 
 https://tutanota.com
 
+https://www.secmail.com/content/en/108/202189/Home.html
+
 ## File sharing
 
 https://onionshare.org/
@@ -80,7 +82,7 @@ https://www.startpage.com/es/
 
 * Ricochet: https://ricochet.im/
 
-* Wickr me: https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=es&gl=US (Mr robot)
+* Wickr me: https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=es&gl=US (Mr robot) Nowadays owned by Amazon.
 
 * Signal: https://signal.org/es/
 
