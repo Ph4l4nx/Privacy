@@ -58,7 +58,7 @@ Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Temporary email
 
-https://correotemporal.org/
+https://www.guerrillamail.com/
 
 ## Email:
 
