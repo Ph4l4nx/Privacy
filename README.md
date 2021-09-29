@@ -82,8 +82,6 @@ https://www.startpage.com/es/
 
 * Ricochet: https://ricochet.im/
 
-* Wickr me: https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=es&gl=US (Mr robot) Nowadays owned by Amazon.
-
 * Signal: https://signal.org/es/
 
 ## Research
