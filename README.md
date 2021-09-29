@@ -50,8 +50,6 @@ Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.word
 
 https://protonvpn.com/es/
 
-https://www.expressvpn.com/es
-
 https://nordvpn.com/es/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
