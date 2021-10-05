@@ -48,9 +48,9 @@ Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.word
 
 ## VPNs
 
-https://protonvpn.com/es/
+https://protonvpn.com/en/
 
-https://nordvpn.com/es/
+https://nordvpn.com/en/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
@@ -74,7 +74,7 @@ https://onionshare.org/
 
 ## Browser:
 
-https://www.startpage.com/es/
+https://www.startpage.com/en/
 
 ## Instant messaging
 
