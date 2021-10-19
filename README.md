@@ -82,6 +82,8 @@ https://www.startpage.com/en/
 
 * Signal: https://signal.org/es/
 
+* https://tox.chat/
+
 ## Research
 
 * https://github.com/renergr1nch/splitter
