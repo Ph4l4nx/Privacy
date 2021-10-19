@@ -84,7 +84,11 @@ https://www.startpage.com/en/
 
 * Tox: https://tox.chat/
 
+* Rocketchat: https://rocket.chat/?no_redirect=true
+
 * (XMPP protocol): https://www.xabber.com/ && https://play.google.com/store/apps/details?id=com.jtalk2&hl=es_419&gl=US && https://play.google.com/store/apps/details?id=com.beem.project.beem
+
+* https://mattermost.com/
 
 ## Research
 
