@@ -82,7 +82,9 @@ https://www.startpage.com/en/
 
 * Signal: https://signal.org/es/
 
-* https://tox.chat/
+* Tox: https://tox.chat/
+
+* (XMPP protocol): https://www.xabber.com/ && https://play.google.com/store/apps/details?id=com.jtalk2&hl=es_419&gl=US && https://play.google.com/store/apps/details?id=com.beem.project.beem
 
 ## Research
 
