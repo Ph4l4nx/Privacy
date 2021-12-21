@@ -74,6 +74,8 @@ https://33mail.com/
 
 https://onionshare.org/
 
+https://wormhole.app/
+
 ## Browser:
 
 https://www.startpage.com/en/
