@@ -52,6 +52,8 @@ https://protonvpn.com/en/
 
 https://nordvpn.com/en/
 
+https://www.softether.org/
+
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Temporary email
