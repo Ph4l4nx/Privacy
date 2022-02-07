@@ -1,4 +1,8 @@
 # Privacy 
+
+## ¿Best solution?
+
+Best solution? VPS(RUSSIA) - VPS(USA) -VPS (CHINA) - ONION OVER VPN service (E.g: nordvpn)
      
 ## Extensions
 
