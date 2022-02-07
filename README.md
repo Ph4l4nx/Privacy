@@ -54,6 +54,10 @@ https://nordvpn.com/en/
 
 https://www.softether.org/
 
+https://www.cyberghostvpn.com/
+
+https://www.vpnsecure.me/
+
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Temporary email
