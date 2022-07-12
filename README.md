@@ -28,7 +28,7 @@ Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopp
 
 ## Anonsurf (TOR tunnel)
 
-https://linuxhint.com/anonsurf/
+https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
 
 ## Proxys:
 
@@ -128,7 +128,7 @@ https://coveryourtracks.eff.org/
 
 ## Auditing tor nodes
 
-https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo
+https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo doesn´t work, it needs to update some libraries
 
 ## Blogs talking about privacy
 
