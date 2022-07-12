@@ -132,4 +132,4 @@ https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tort
 
 ## Blogs talking about privacy
 
-http://hackcanl2o4lvmnv.onion
+https://www.eff.org/es/issues/privacy
