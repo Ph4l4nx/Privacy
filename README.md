@@ -66,6 +66,8 @@ Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Temporary email
 
+https://mailgolem.com/?ref=formsubmit
+
 https://www.guerrillamail.com/
 
 ## Email:
