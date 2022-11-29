@@ -131,6 +131,18 @@ Kodachi: https://sourceforge.net/projects/linuxkodachi/
 
 Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
 
+## Check your browser
+
+https://coveryourtracks.eff.org/
+
+## Auditing tor nodes
+
+https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo doesn´t work, it needs to update some libraries
+
+## Blogs talking about privacy
+
+https://www.eff.org/es/issues/privacy
+
 ## Research
 
 * https://github.com/renergr1nch/splitter
@@ -147,14 +159,3 @@ Anonsurf: https://linuxhint.com/anonsurf/
 
 DVPN
 
-## Check your browser
-
-https://coveryourtracks.eff.org/
-
-## Auditing tor nodes
-
-https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo doesn´t work, it needs to update some libraries
-
-## Blogs talking about privacy
-
-https://www.eff.org/es/issues/privacy
