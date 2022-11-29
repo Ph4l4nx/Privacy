@@ -11,6 +11,11 @@
 * [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-smss)
 * [Instant messaging](#instant-messaging)
 * [Linux distros for privacy](#linux-distros-for-privacy)
+* [Check your browser](#check-your-browser)
+* [Auditing tor nodes](#auditing-tor-nodes)
+* [Blogs talking about privacy](#blogs-talking-about-privacy)
+* [Research](#research)
+* [Others](#others)
 
 ## Proxys:
 
@@ -126,20 +131,6 @@ Kodachi: https://sourceforge.net/projects/linuxkodachi/
 
 Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
 
-
-
-## ¿Best solution?
-
-Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
-     
-## Anonsurf (TOR tunnel)
-
-https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
-
-
-
-
-
 ## Research
 
 * https://github.com/renergr1nch/splitter
@@ -147,6 +138,14 @@ https://linuxhint.com/anonsurf/, take care, put wireshark on;)
 * https://github.com/samyk/proxygambit
 
 * https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
+
+## Others
+
+Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
+     
+Anonsurf: https://linuxhint.com/anonsurf/ 
+
+DVPN
 
 ## Check your browser
 
