@@ -64,6 +64,10 @@ https://www.vpnsecure.me/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
+## Browser VPN
+
+https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+
 ## Temporary email
 
 https://mailgolem.com/?ref=formsubmit
