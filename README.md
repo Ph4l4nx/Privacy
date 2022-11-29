@@ -9,6 +9,7 @@
 * [Extensions](#extensions)
 * [Configurations for the browser](#configurations-for-the-browser)
 * [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-sms's)
+* [Instant messaging](#instant-messaging)
 * [Linux distros for privacy](#linux-distros-for-privacy)
 
 ## Proxys:
@@ -75,6 +76,8 @@ https://www.startpage.com/en/
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
+* Privacy browser extension: https://add.startpage.com/protection/?source=homepage
+
 * Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
 
 * Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
@@ -99,28 +102,6 @@ https://receive-sms-online.info/
 
 https://receive-smss.com/
 
-
-
-
-
-## ¿Best solution?
-
-Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
-     
-## Anonsurf (TOR tunnel)
-
-https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
-
-## Linux distros for privacy
-
-Qubes-os: https://www.qubes-os.org/
-
-Whonix: https://www.whonix.org/wiki/Download
-
-Kodachi: https://sourceforge.net/projects/linuxkodachi/
-
-Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
-
 ## Instant messaging
 
 * Ricochet: https://ricochet.im/
@@ -134,6 +115,30 @@ Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.word
 * (XMPP protocol): https://www.xabber.com/ && https://play.google.com/store/apps/details?id=com.jtalk2&hl=es_419&gl=US && https://play.google.com/store/apps/details?id=com.beem.project.beem
 
 * https://mattermost.com/
+
+## Linux distros for privacy
+
+Qubes-os: https://www.qubes-os.org/
+
+Whonix: https://www.whonix.org/wiki/Download
+
+Kodachi: https://sourceforge.net/projects/linuxkodachi/
+
+Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
+
+
+
+## ¿Best solution?
+
+Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
+     
+## Anonsurf (TOR tunnel)
+
+https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
+
+
+
+
 
 ## Research
 
