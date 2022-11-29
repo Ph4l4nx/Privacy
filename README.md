@@ -21,17 +21,19 @@
 
 * ProxyBound: https://github.com/Intika-Linux-Proxy/Proxybound
 
+* Examples: https://hidemy.name/en/proxy-list/?type=s&anon=4#list
+
 ## VPNs
 
 https://protonvpn.com/en/
 
-https://nordvpn.com/en/
-
-https://www.softether.org/
-
 https://www.cyberghostvpn.com/
 
 https://www.vpnsecure.me/
+
+https://www.softether.org/
+
+https://nordvpn.com/en/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
