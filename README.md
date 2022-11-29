@@ -1,5 +1,16 @@
 # Privacy and Anonimity
 
+* [Proxys](#proxys)
+* [VPNs](#vpns)
+* [Temporary emails](#temporary-emails)
+* [Emails](#emails)
+* [File sharing](#file-sharing)
+* [Browsers](#browsers)
+* [Extensions](#extensions)
+* [Configurations for the browser](#configurations-for-the-browser)
+* [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-sms's)
+* [Linux distros for privacy](#linux-distros-for-privacy)
+
 ## ¿Best solution?
 
 Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
@@ -66,13 +77,13 @@ https://www.vpnsecure.me/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
-## Temporary email
+## Temporary emails
 
 https://mailgolem.com/?ref=formsubmit
 
 https://www.guerrillamail.com/
 
-## Email:
+## Emails:
 
 https://en.onionmail.info/
 
@@ -94,7 +105,7 @@ https://onionshare.org/
 
 https://wormhole.app/
 
-## Browser:
+## Browsers:
 
 https://www.startpage.com/en/
 
