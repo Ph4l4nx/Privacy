@@ -31,6 +31,8 @@
 
 ## VPNs
 
+Descentralized the VPN, dVPN: https://sentinel.co/
+
 https://protonvpn.com/en/
 
 https://www.cyberghostvpn.com/
@@ -157,5 +159,4 @@ Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopp
      
 Anonsurf: https://linuxhint.com/anonsurf/ 
 
-DVPN
 
