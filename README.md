@@ -8,7 +8,7 @@
 * [Browsers](#browsers)
 * [Extensions](#extensions)
 * [Configurations for the browser](#configurations-for-the-browser)
-* [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-sms's)
+* [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-smss)
 * [Instant messaging](#instant-messaging)
 * [Linux distros for privacy](#linux-distros-for-privacy)
 
@@ -96,7 +96,7 @@ https://www.startpage.com/en/
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
-## Fake mobile number to recieve SMS's
+## Fake mobile number to recieve SMSs
 
 https://receive-sms-online.info/
 
