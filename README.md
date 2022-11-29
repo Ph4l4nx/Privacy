@@ -66,10 +66,6 @@ https://www.vpnsecure.me/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
-## Browser VPN
-
-
-
 ## Temporary email
 
 https://mailgolem.com/?ref=formsubmit
