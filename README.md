@@ -6,6 +6,8 @@ Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopp
      
 ## Extensions
 
+* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
 * Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
@@ -66,7 +68,7 @@ Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Browser VPN
 
-https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+
 
 ## Temporary email
 
