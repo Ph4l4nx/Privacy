@@ -11,38 +11,6 @@
 * [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-sms's)
 * [Linux distros for privacy](#linux-distros-for-privacy)
 
-## ¿Best solution?
-
-Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
-     
-## Extensions
-
-* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
-
-* Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
-
-* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
-
-* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
-
-* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
-
-* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
-
-* Adblocker: https://adblockplus.org/es/
-
-* https://privacybadger.org/
-
-* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
-
-## Configurations for the browser
-
-* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
-
-## Anonsurf (TOR tunnel)
-
-https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
-
 ## Proxys:
 
 * Proxychains: https://github.com/haad/proxychains
@@ -52,16 +20,6 @@ https://linuxhint.com/anonsurf/, take care, put wireshark on;)
 * HTTP proxy: https://www.haproxy.org/
 
 * ProxyBound: https://github.com/Intika-Linux-Proxy/Proxybound
-
-## Linux distros for privacy
-
-Qubes-os: https://www.qubes-os.org/
-
-Whonix: https://www.whonix.org/wiki/Download
-
-Kodachi: https://sourceforge.net/projects/linuxkodachi/
-
-Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
 
 ## VPNs
 
@@ -109,11 +67,57 @@ https://wormhole.app/
 
 https://www.startpage.com/en/
 
+## Extensions
+
+* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+
+* Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
+
+* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
+
+* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+
+* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
+
+* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
+
+* Adblocker: https://adblockplus.org/es/
+
+* https://privacybadger.org/
+
+* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
+
+## Configurations for the browser
+
+* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
+
 ## Fake mobile number to recieve SMS's
 
 https://receive-sms-online.info/
 
 https://receive-smss.com/
+
+
+
+
+
+## ¿Best solution?
+
+Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
+     
+## Anonsurf (TOR tunnel)
+
+https://linuxhint.com/anonsurf/, take care, put wireshark on;) 
+
+## Linux distros for privacy
+
+Qubes-os: https://www.qubes-os.org/
+
+Whonix: https://www.whonix.org/wiki/Download
+
+Kodachi: https://sourceforge.net/projects/linuxkodachi/
+
+Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
 
 ## Instant messaging
 
