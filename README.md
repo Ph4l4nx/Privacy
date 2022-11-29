@@ -35,7 +35,7 @@ Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopp
 
 * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
 
-## Configurations
+## Configurations for the browser
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
