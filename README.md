@@ -1,6 +1,7 @@
 # Privacy and Anonimity
 
 - [Browsers](#browsers)
+  * [TOR](#tor)
   * [Configurations for the browser](#configurations-for-the-browser)
   * [Extensions](#extensions)
   * [Check your browser](#check-your-browser)
@@ -22,6 +23,18 @@
 ## Browsers:
 
 https://www.startpage.com/en/
+
+### TOR
+
+Torch: http://xmh57jrzrnw6insl.onion
+
+Ahmia: http://msydqstlz2kzerdg.onion
+
+DarkSearch: http://darksearch.io
+
+TorLinks: http://torlinksd6pdnihy.onion/
+
+Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
 
 ### Configurations for the browser
 
