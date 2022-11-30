@@ -22,31 +22,35 @@
 
 https://www.startpage.com/en/
 
-      ### Extensions
+### Configurations for the browser
 
-      * BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
-      * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
+### Extensions
 
-      * Privacy browser extension: https://add.startpage.com/protection/?source=homepage
+* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
 
-      * Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
+* Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
-      * Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+* Privacy browser extension: https://add.startpage.com/protection/?source=homepage
 
-      * UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
+* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
 
-      * HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
+* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
 
-      * Adblocker: https://adblockplus.org/es/
+* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
 
-      * https://privacybadger.org/
+* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
 
-      * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
+* Adblocker: https://adblockplus.org/es/
 
-      ### Configurations for the browser
+* https://privacybadger.org/
 
-      * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
+* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
+
+### Check your browser
+
+https://coveryourtracks.eff.org/
 
 ## Proxys:
 
@@ -76,12 +80,6 @@ https://nordvpn.com/en/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
-## Temporary emails
-
-https://mailgolem.com/?ref=formsubmit
-
-https://www.guerrillamail.com/
-
 ## Emails:
 
 https://en.onionmail.info/
@@ -98,21 +96,28 @@ https://33mail.com/
 
 https://onionmail.org/
 
+### Temporary emails
+
+https://mailgolem.com/?ref=formsubmit
+
+https://www.guerrillamail.com/
+
+
 ## File sharing
 
 https://onionshare.org/
 
 https://wormhole.app/
 
+## Mobiles
 
-
-## Fake mobile number to recieve SMSs
+### Fake mobile number to recieve SMSs
 
 https://receive-sms-online.info/
 
 https://receive-smss.com/
 
-## Instant messaging
+### Instant messaging
 
 * Ricochet: https://ricochet.im/
 
@@ -135,10 +140,6 @@ Whonix: https://www.whonix.org/wiki/Download
 Kodachi: https://sourceforge.net/projects/linuxkodachi/
 
 Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.wordpress.com/2017/02/17/distribuciones-gnulinux-para-el-anonimato/
-
-## Check your browser
-
-https://coveryourtracks.eff.org/
 
 ## Auditing tor nodes
 
