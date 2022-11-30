@@ -16,7 +16,7 @@
   * [Spoofing](#spoofing)
 - [Linux distros for privacy](#linux-distros-for-privacy)
 - [Auditing tor nodes](#auditing-tor-nodes)
-- [Blogs talking about privacy](#blogs-talking-about-privacy)
+- [Privacy Blogs](#privacy-blogs)
 - [Research](#research)
 - [Others](#others)
 
@@ -167,7 +167,7 @@ Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.word
 
 https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo doesn´t work, it needs to update some libraries
 
-## Blogs talking about privacy
+## Privacy Blogs
 
 https://www.eff.org/es/issues/privacy
 
