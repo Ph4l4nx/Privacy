@@ -18,6 +18,36 @@
 - [Research](#research)
 - [Others](#others)
 
+## Browsers:
+
+https://www.startpage.com/en/
+
+### Extensions
+
+* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+
+* Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
+
+* Privacy browser extension: https://add.startpage.com/protection/?source=homepage
+
+* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
+
+* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+
+* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
+
+* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
+
+* Adblocker: https://adblockplus.org/es/
+
+* https://privacybadger.org/
+
+* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
+
+### Configurations for the browser
+
+* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
+
 ## Proxys:
 
 * Proxychains: https://github.com/haad/proxychains
@@ -74,35 +104,7 @@ https://onionshare.org/
 
 https://wormhole.app/
 
-## Browsers:
 
-https://www.startpage.com/en/
-
-## Extensions
-
-* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
-
-* Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
-
-* Privacy browser extension: https://add.startpage.com/protection/?source=homepage
-
-* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
-
-* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
-
-* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
-
-* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
-
-* Adblocker: https://adblockplus.org/es/
-
-* https://privacybadger.org/
-
-* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
-
-## Configurations for the browser
-
-* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
 ## Fake mobile number to recieve SMSs
 
