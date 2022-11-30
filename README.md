@@ -147,11 +147,13 @@ https://www.eff.org/es/issues/privacy
 
 ## Research
 
+* https://www.hackers-arise.com/post/software-defined-radio-for-hacker-how-to-spoof-your-global-position-gps-to-hide-your-location
+
+* https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
+
 * https://github.com/renergr1nch/splitter
 
 * https://github.com/samyk/proxygambit
-
-* https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/09/20081827/BlackHat-DC-2010-Nve-Playing-with-SAT-1.2-wp.pdf
 
 ## Others
 
