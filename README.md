@@ -12,6 +12,7 @@
 - [Mobiles](#mobiles)
   * [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-smss)
   * [Instant messaging](#instant-messaging)
+  * [Spoofing](#spoofing)
 - [Linux distros for privacy](#linux-distros-for-privacy)
 - [Auditing tor nodes](#auditing-tor-nodes)
 - [Blogs talking about privacy](#blogs-talking-about-privacy)
@@ -130,6 +131,14 @@ https://receive-smss.com/
 * (XMPP protocol): https://www.xabber.com/ && https://play.google.com/store/apps/details?id=com.jtalk2&hl=es_419&gl=US && https://play.google.com/store/apps/details?id=com.beem.project.beem
 
 * https://mattermost.com/
+
+### Spoofing
+
+https://www.spoofcard.com/
+
+https://www.spoofbox.com/es
+
+https://www.spoofmyphone.com/spoof-call
 
 ## Linux distros for privacy
 
