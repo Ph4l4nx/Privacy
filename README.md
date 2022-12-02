@@ -2,7 +2,7 @@
 
 - [Browsers](#browsers)
   * [TOR](#tor)
-  * [Configurations for the browser](#configurations-for-the-browser)
+  * [Browser Configurations](#browser-configurations)
   * [Extensions](#extensions)
   * [Check your browser](#check-your-browser)
 - [Proxys](#proxys)
@@ -36,7 +36,7 @@ TorLinks: http://torlinksd6pdnihy.onion/
 
 Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
 
-### Configurations for the browser
+### Browser Configurations
 
 * DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
 
