@@ -42,7 +42,7 @@ Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
 
 ### Extensions
 
-* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+* Privacy badger: https://privacybadger.org/
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
@@ -58,7 +58,7 @@ Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
 
 * Adblocker: https://adblockplus.org/es/
 
-* https://privacybadger.org/
+* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
 
 * McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
 
