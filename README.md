@@ -171,7 +171,9 @@ https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tort
 
 https://www.eff.org/es/issues/privacy
 
-## Research
+## Others
+   
+Anonsurf: https://linuxhint.com/anonsurf/ 
 
 * https://www.hackers-arise.com/post/software-defined-radio-for-hacker-how-to-spoof-your-global-position-gps-to-hide-your-location
 
@@ -180,11 +182,3 @@ https://www.eff.org/es/issues/privacy
 * https://github.com/renergr1nch/splitter
 
 * https://github.com/samyk/proxygambit
-
-## Others
-
-Best solution? VPS - VPS - VPS - ONION OVER VPN service (E.g: nordvpn) Multihopping
-     
-Anonsurf: https://linuxhint.com/anonsurf/ 
-
-
