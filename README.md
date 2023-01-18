@@ -17,7 +17,6 @@
 - [Linux distros for privacy](#linux-distros-for-privacy)
 - [Auditing tor nodes](#auditing-tor-nodes)
 - [Privacy Blogs](#privacy-blogs)
-- [Research](#research)
 - [Others](#others)
 
 ## Browsers:
