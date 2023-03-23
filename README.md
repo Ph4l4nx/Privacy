@@ -37,7 +37,7 @@ Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
 
 ### Browser Configurations
 
-* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS
+* DNS over TLS in Firefox: Preferences -> Network Configuration -> Enable DNS over HTTPS/TLS (DoH/DoT)
 
 ### Extensions
 
