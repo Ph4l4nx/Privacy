@@ -132,6 +132,8 @@ https://receive-smss.com/
 
 ### Instant messaging
 
+* Wickr Me
+
 * Ricochet: https://ricochet.im/
 
 * Signal: https://signal.org/es/
