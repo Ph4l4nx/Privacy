@@ -23,6 +23,8 @@
 
 https://www.startpage.com/en/
 
+https://www.searchencrypt.com/home
+
 ### TOR
 
 Torch: http://xmh57jrzrnw6insl.onion
