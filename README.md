@@ -25,6 +25,8 @@ https://www.startpage.com/en/
 
 https://www.searchencrypt.com/home
 
+https://metager.org/
+
 ### TOR
 
 Torch: http://xmh57jrzrnw6insl.onion
