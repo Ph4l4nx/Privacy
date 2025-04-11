@@ -171,6 +171,8 @@ https://stem.torproject.org/tutorials/down_the_rabbit_hole.html
 https://www.eff.org/es/issues/privacy
 
 ## Others
+
+sudo systemctl start tor
    
 Anonsurf: https://linuxhint.com/anonsurf/ 
 
