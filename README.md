@@ -164,7 +164,7 @@ Tails: https://tails.boum.org/install/index.es.html, https://deepwebnetwork.word
 
 ## Auditing tor nodes
 
-https://tortazo.readthedocs.io/en/latest/ && https://github.com/Adastra-thw/Tortazo doesn´t work, it needs to update some libraries
+https://stem.torproject.org/tutorials/down_the_rabbit_hole.html
 
 ## Privacy Blogs
 
