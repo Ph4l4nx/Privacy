@@ -29,15 +29,7 @@ https://metager.org/
 
 ### TOR
 
-Torch: http://xmh57jrzrnw6insl.onion
-
-Ahmia: http://msydqstlz2kzerdg.onion
-
-DarkSearch: http://darksearch.io
-
-TorLinks: http://torlinksd6pdnihy.onion/
-
-Hidden Wiki: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page.
+Torify all your traffic: https://github.com/vvicaretti/stem-tortp 
 
 ### Browser Configurations
 
