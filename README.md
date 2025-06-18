@@ -91,6 +91,8 @@ Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Emails:
 
+https://tuta.com/es
+
 https://en.onionmail.info/
 
 https://lavabit.com/
@@ -128,15 +130,15 @@ https://receive-smss.com/
 
 ### Instant messaging
 
+* Tox: https://tox.chat/
+
+* Signal: https://signal.org/es/
+
 * Conion: https://play.google.com/store/apps/details?id=com.secapp.tor.conion&hl=es_HN&gl=US
 
 * Wickr Me
 
 * Ricochet: https://ricochet.im/
-
-* Signal: https://signal.org/es/
-
-* Tox: https://tox.chat/
 
 * Rocketchat: https://rocket.chat/?no_redirect=true
 
