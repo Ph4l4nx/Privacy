@@ -121,7 +121,7 @@ https://onionshare.org/
 
 https://wormhole.app/
 
-## Credit cards
+## Credit card
 
 https://www.vccgenerator.org/
 
