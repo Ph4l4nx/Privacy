@@ -10,6 +10,7 @@
 - [Emails](#emails)
   * [Temporary emails](#temporary-emails)
 - [File sharing](#file-sharing)
+- [Credit card](#credit-card)
 - [Mobiles](#mobiles)
   * [Fake mobile number to recieve SMS's](#fake-mobile-number-to-recieve-smss)
   * [Instant messaging](#instant-messaging)
@@ -120,9 +121,15 @@ https://onionshare.org/
 
 https://wormhole.app/
 
+## Credit cards
+
+https://www.vccgenerator.org/
+
 ## Mobiles
 
 ### Fake mobile number to recieve SMSs
+
+https://onlinesim.io/
 
 https://receive-sms-online.info/
 
