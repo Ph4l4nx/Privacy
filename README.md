@@ -115,6 +115,8 @@ https://mailgolem.com/?ref=formsubmit
 
 https://www.guerrillamail.com/
 
+https://temp-mail.org/
+
 
 ## File sharing
 
