@@ -61,6 +61,8 @@ Torify all your traffic: https://github.com/vvicaretti/stem-tortp
 
 ### Check your browser
 
+https://browserleaks.com/
+
 https://coveryourtracks.eff.org/
 
 ## Proxys:
