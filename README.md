@@ -43,21 +43,21 @@ Torify all your traffic: https://github.com/vvicaretti/stem-tortp
 
 * Privacy browser extension (block ads, stop trackers, etc): https://www.ghostery.com/
 
-* Privacy browser extension: https://add.startpage.com/protection/?source=homepage
+* Privacy browser extension
 
-* Browser Chrome extension to uncover the technologies used on websites: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es
+* Browser Chrome extension to uncover the technologies used on websites
 
-* Cookie Manager: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+* Cookie Manager
 
-* UA Switcher: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=es
+* UA Switcher
 
-* HTTPS everywhere: https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related?hl=en
+* HTTPS everywhere
 
-* Adblocker: https://adblockplus.org/es/
+* Adblocker: https://adblockplus.org/
 
-* BrowserVPN: https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh
+* BrowserVPN
 
-* McAfee Endpoint Security Web Control: https://chrome.google.com/webstore/detail/mcafee-endpoint-security/jjkchpdmjjdmalgembblgafllbpcjlei?hl=es
+* McAfee Endpoint Security Web Control
 
 ### Check your browser
 
@@ -146,7 +146,7 @@ https://receive-smss.com/
 
 * Tox: https://tox.chat/
 
-* Signal: https://signal.org/es/
+* Signal: https://signal.org/
 
 * Conion: https://play.google.com/store/apps/details?id=com.secapp.tor.conion&hl=es_HN&gl=US
 
