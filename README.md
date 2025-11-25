@@ -97,7 +97,7 @@ Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
 ## Emails:
 
-https://tuta.com/es
+https://tuta.com/
 
 https://en.onionmail.info/
 
