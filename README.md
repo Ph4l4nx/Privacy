@@ -151,7 +151,7 @@ https://receive-smss.com/
 
 * Wickr Me
 
-* Ricochet: https://ricochet.im/
+* Ricochet: https://github.com/ricochet-im/ricochet
 
 * Rocketchat: https://rocket.chat/?no_redirect=true
 
