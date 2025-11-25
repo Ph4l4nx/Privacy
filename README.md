@@ -121,6 +121,8 @@ https://www.guerrillamail.com/
 
 https://temp-mail.org/
 
+Edu mails: https://etempmail.com/
+
 ## File sharing
 
 https://onionshare.org/
