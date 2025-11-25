@@ -79,17 +79,19 @@ https://coveryourtracks.eff.org/
 
 ## VPNs
 
-Descentralized the VPN, dVPN: https://sentinel.co/
+https://mullvad.net/
+
+https://nordvpn.com/en/
 
 https://protonvpn.com/en/
+
+Descentralized the VPN, dVPN: https://sentinel.co/
 
 https://www.cyberghostvpn.com/
 
 https://www.vpnsecure.me/
 
 https://www.softether.org/
-
-https://nordvpn.com/en/
 
 Blog: https://www.safetydetectives.com/best-vpns/#detailed-vpn-comparison
 
