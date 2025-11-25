@@ -121,7 +121,6 @@ https://www.guerrillamail.com/
 
 https://temp-mail.org/
 
-
 ## File sharing
 
 https://onionshare.org/
@@ -148,7 +147,7 @@ https://receive-smss.com/
 
 * Signal: https://signal.org/
 
-* Conion: https://play.google.com/store/apps/details?id=com.secapp.tor.conion&hl=es_HN&gl=US
+* Conion
 
 * Wickr Me
 
@@ -164,7 +163,7 @@ https://receive-smss.com/
 
 https://www.spoofcard.com/
 
-https://www.spoofbox.com/es
+https://www.spoofbox.com/
 
 https://www.spoofmyphone.com/spoof-call
 
