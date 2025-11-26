@@ -33,7 +33,7 @@ https://metager.org/
 
 Torify all your traffic: https://github.com/vvicaretti/stem-tortp 
 
-Proxychians firefox, Settings -> Network Settings -> Manual proxy configuration: HTTP - 127.0.0.1 Port 9050 (sudo systemctl start tor)
+Proxychains firefox, Settings -> Network Settings -> Manual proxy configuration: HTTP - 127.0.0.1 Port 9050 (sudo systemctl start tor)
 
 ### Browser Configurations
 
